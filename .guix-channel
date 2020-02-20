@@ -1,0 +1,7 @@
+;; -*- mode: scheme; coding: utf-8; -*-
+(channel
+ (version 0)
+ (dependencies
+  (channel
+   (name guix)
+   (url "https://git.savannah.gnu.org/git/guix.git"))))
